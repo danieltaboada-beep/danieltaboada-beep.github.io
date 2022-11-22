@@ -1,0 +1,194 @@
+
+header{
+    position: relative;
+}
+
+header img{
+    width: 100%;
+    height: 500px;
+}
+
+h1{
+    font-size: 70px;
+    color: #A69E37;
+    height: 80px;
+}
+
+
+.nombre{
+    font-size: 90px;
+    color: #A69E37;
+    height: 50px;
+    background-color:#9b7059 ;
+    display: flex;
+}
+
+.titulo{
+    background-color:#9b7059 ;
+    justify-content: center;
+    display: flex;
+}
+
+h2{
+    
+    font-size: 40px;
+    color:#14222D;
+    
+}
+
+.introduccion {
+
+    background-color: #D9BF41;
+    display: flex;
+    justify-content: center;
+  }
+
+p{
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+header nav {
+    border-top: 2px solid #A69E37	;
+    border-bottom: 2px solid #FFFFFF;
+    position: absolute;
+    bottom:  0px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    height: 15%;
+
+}
+nav ul {
+    list-style: none;
+
+}
+
+nav ul li {
+    padding: 1rem 1.5rem;
+    display: inline-block;
+}
+
+nav ul li a {
+    font-size: 1.7rem;
+    color: #FFFFFF;
+}
+
+nav ul li a:hover {
+    font-size: 1.9rem;
+    color: #A69E37	;
+}
+
+h3{
+    font-size: 30px;
+    color: #918b3f;
+    height: 30px;
+    
+}
+
+.espacio{
+    background-color:#785745 ;
+    display:flex;
+    
+}
+.ordenador {
+    height: 200px;
+    display: flex;
+    justify-content: center;
+}
+
+.seccion2{
+    background-color:#A68521;
+    display: flex;
+    justify-content: center;
+}
+
+.seccion2fotos{
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    margin-right: 20px;
+}
+
+.seccion3{
+    background-color:#8C610F;
+    display: flex;
+    justify-content: center;
+}
+
+.mapa{
+    height: 300px;
+    display: flex;
+    justify-content: center;
+}
+
+.seccion4{
+    background-color:#8C5332;
+    display: flex;
+    justify-content: center;
+}
+
+.ordenador2{
+    height: 300px;
+    display: flex;
+    justify-content: center;
+}
+
+.conclusiones{
+    
+    display: flex;
+    justify-content: center;
+    background-color: #A69485;
+}
+
+.conc{
+    background-color: #A69485;
+    color: #8C5332;
+}
+
+table{
+    font-size: 30px;
+    width: 100%;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+thead{
+    background-color: #261911;
+    color: #ffffff;
+    margin: 0px;
+    justify-content: center;
+}
+
+td{
+    margin: 0.5px;
+}
+
+.uno{
+    background-color: #8C5332;
+}
+.dos{
+    background-color:#A69485;
+}
+
+aside {
+    margin: 2rem 0;
+}
+
+blockquote{
+    border-left: 10px solid var(color #A69485);
+    padding: 1rem;
+    font-style: italic;
+}
+
+p.autor {
+    text-align: right;
+}
+
+h4{
+    font-size: 25px;
+    color: #1a82d2;
+    background-color: #070e5a;
+    justify-content: center;
+    display: flex;
+}
